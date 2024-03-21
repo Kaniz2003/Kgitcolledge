@@ -1,1 +1,2 @@
 This is another directory
+To merge with feature branch
